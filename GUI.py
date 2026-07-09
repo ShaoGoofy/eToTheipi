@@ -190,6 +190,7 @@ QPushButton {{
         self.doubleSpinBox.valueChanged.connect(self.Time_GotChanged)
         self.ktextedit = QtWidgets.QPlainTextEdit(parent=self.frame)
         self.ktextedit.setGeometry(QtCore.QRect(40, 0, 141, 41))
+        self.ktextedit.setReadOnly(True)
         self.ktextedit.setStyleSheet("QPlainTextEdit {\n"
 "background: transparent;\n"
 "font-size: 24px\n"
