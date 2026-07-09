@@ -1,4 +1,4 @@
-# e-i-
+# eToTheipi
 A GUI wrapper for Linux that turns ydotool into an autoclicker
 -----------------------------
 !!! You will need to have ydotool installed and running
