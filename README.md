@@ -18,3 +18,10 @@ Ydotool
 
 
 i dont actually know if anyone else made someting like this. if i stole someones idea, i didnt know it existed
+
+# Installation
+
+Just download the full zip file and extract it somewhere. Anywhere should be fine, but it's reccomended to put it in Documents.
+Extract everything to a single folder and allow all the scripts to execute by using chmod +x /path/to/script.(sh/py).*
+Make a desktop file for the python file, make sure to set exec as python3 /path/to/python.py.
+Set a keybind for the bash (.sh) file in your window manager. It's a toggle, meaning every time you execute the command, it toggles the autoclicker on and off.
