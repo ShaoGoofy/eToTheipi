@@ -30,4 +30,4 @@ Extract everything to a single folder and allow all the scripts to execute by us
 Make a desktop file for the python file, make sure to set exec as python3 /path/to/python.py.
 Set a keybind for the bash (.sh) file in your desktop environment. It's a toggle, meaning every time you execute the command, it toggles the autoclicker on and off.
 
-<img width="816" height="614" alt="image" src="https://github.com/user-attachments/assets/5d97a7b3-c8b3-49de-87f1-87f77b86ab03" />
+<img width="408" height="307" alt="image" src="https://github.com/user-attachments/assets/5d97a7b3-c8b3-49de-87f1-87f77b86ab03" />
