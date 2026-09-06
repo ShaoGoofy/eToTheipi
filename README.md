@@ -5,8 +5,8 @@ A GUI wrapper for Linux that turns ydotool into an autoclicker
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
+   width="21.0mm"
+   height="29.7mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
