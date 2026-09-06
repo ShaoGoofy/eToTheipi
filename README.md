@@ -1,10 +1,5 @@
-<img width="794" height="1123" alt="mouse" src="https://github.com/user-attachments/assets/39ab1a66-94d9-430b-9d4f-bb8498c5660e" /># eToTheipi
+# eToTheipi
 A GUI wrapper for Linux that turns ydotool into an autoclicker
-
-![Upl<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-
 
 
 -----------------------------
