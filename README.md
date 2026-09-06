@@ -1,5 +1,7 @@
 # eToTheipi
 A GUI wrapper for Linux that turns ydotool into an autoclicker
+<img width="1914" height="2978" alt="e^ipiclicker" src="https://github.com/user-attachments/assets/131a64b9-0050-4960-add2-53c077bdad31" />
+
 
 
 -----------------------------
@@ -23,9 +25,9 @@ i dont actually know if anyone else made someting like this. if i stole someones
 
 # Installation
 
-<img width="816" height="614" alt="image" src="https://github.com/user-attachments/assets/5d97a7b3-c8b3-49de-87f1-87f77b86ab03" />
-
-Just download the full zip file and extract it somewhere. Anywhere should be fine, but it's reccomended to put it in Documents.
+Just download the full zip file and extract it somewhere. Anywhere should be fine. If you don't know where, just put it in Documents.
 Extract everything to a single folder and allow all the scripts to execute by using chmod +x /path/to/script.(sh/py).*
 Make a desktop file for the python file, make sure to set exec as python3 /path/to/python.py.
-Set a keybind for the bash (.sh) file in your window manager. It's a toggle, meaning every time you execute the command, it toggles the autoclicker on and off.
+Set a keybind for the bash (.sh) file in your desktop environment. It's a toggle, meaning every time you execute the command, it toggles the autoclicker on and off.
+
+<img width="816" height="614" alt="image" src="https://github.com/user-attachments/assets/5d97a7b3-c8b3-49de-87f1-87f77b86ab03" />
