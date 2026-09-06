@@ -3,7 +3,7 @@ A GUI wrapper for Linux that turns ydotool into an autoclicker
 
 
 
-!<img width="128" height="128" alt="e^ipiclickericon" src="https://github.com/user-attachments/assets/d0468178-6fa8-4bb5-b77a-9b6e5a8cfabc" />
+<img width="128" height="128" alt="e^ipiclickericon" src="https://github.com/user-attachments/assets/d0468178-6fa8-4bb5-b77a-9b6e5a8cfabc" />
 
 
 
