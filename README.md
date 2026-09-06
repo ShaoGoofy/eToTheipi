@@ -1,6 +1,6 @@
 # eToTheipi
 A GUI wrapper for Linux that turns ydotool into an autoclicker
-<img width="1914" height="2978" alt="e^ipiclicker" src="https://github.com/user-attachments/assets/131a64b9-0050-4960-add2-53c077bdad31" />
+<img width="128" height="128" alt="e^ipiclickericon" src="https://github.com/user-attachments/assets/d0468178-6fa8-4bb5-b77a-9b6e5a8cfabc" />
 
 
 
