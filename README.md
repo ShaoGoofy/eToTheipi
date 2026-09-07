@@ -9,7 +9,10 @@ A GUI wrapper for Linux that turns ydotool into an autoclicker
 -----------------------------
 
 
-eToTheipi is a GUI wrapper that essentially turns ydotool into an extremely simple autoclicker. The autoclicker script itself is available too. It may not be the best, but you can always modify it on your copy.
+eToTheipi is a GUI wrapper that essentially turns ydotool into an extremely simple autoclicker. The autoclicker script itself is available too. It may not be the best, but you can always modify it on your copy. I know, you own your copy. Shocker.
+
+Why use this instead of anything else? That's because there is no "anything else". The Wayland autoclickers I found myself for Linux worked only by simulating a remote desktop session. And I am not leaving a remote desktop session running when I want to occasionally turn on an autoclicker. This one doesn't bug you with the Lil "do you want to share your screen" prompt. Once you set it up, it's free. Works really similarly to OP autoclicker on Windows, but it can only click. Unless you edit the file to do it. 
+
 
 This project was mostly vibe-coded with ChatGPT. I just can't code.
 You will have to make your own .desktop file if you need it (for the beginners of linux, you do.)
@@ -26,7 +29,9 @@ i dont actually know if anyone else made someting like this. if i stole someones
 # Installation
 
 Just download the full zip file and extract it somewhere. Anywhere should be fine. If you don't know where, just put it in Documents.
+
 Extract everything to a single folder and allow all the scripts to execute by using chmod +x /path/to/script.(sh/py).*
+
 Make a desktop file for the python file, make sure to set exec as python3 /path/to/python.py.
 Set a keybind for the bash (.sh) file in your desktop environment. It's a toggle, meaning every time you execute the command, it toggles the autoclicker on and off.
 
