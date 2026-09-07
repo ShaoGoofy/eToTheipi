@@ -37,4 +37,5 @@ Set a keybind for the bash (.sh) file in your desktop environment. It's a toggle
 
 <img width="408" height="307" alt="image" src="https://github.com/user-attachments/assets/5d97a7b3-c8b3-49de-87f1-87f77b86ab03" />
 
-Yes, there is only a click option. Mad? Edit the bash file yourself, I won't stop you.
+Yes, there is only an autoclick option. Mad? Edit the bash file yourself, I won't stop you.
+(its supposed to say "click every:" but I made the box too small)
