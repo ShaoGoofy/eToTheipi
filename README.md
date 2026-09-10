@@ -14,7 +14,7 @@ eToTheipi is a GUI wrapper that essentially turns ydotool into an extremely simp
 Why use this instead of anything else? That's because there is no "anything else". The Wayland autoclickers I found myself for Linux worked only by simulating a remote desktop session. And I am not leaving a remote desktop session running when I want to occasionally turn on an autoclicker. This one doesn't bug you with the Lil "do you want to share your screen" prompt. Once you set it up, it's free. Works really similarly to OP autoclicker on Windows, but it can only click. Unless you edit the file to do it. Check the screenshot at the end.
 
 
-This project was mostly vibe-coded with ChatGPT. I just can't code.
+This project was mostly vibe-coded with ChatGPT. I just can't code. I tried keeping it as human made as I can make it.
 You will have to make your own .desktop file if you need it (for the beginners of linux, you do.)
 
 # Prerequesites
@@ -24,7 +24,7 @@ Python
 Ydotool
 
 
-i dont actually know if anyone else made someting like this. if i stole someones idea, i didnt know it existed
+i dont actually know if anyone else made someting like this. if i stole someones idea, i didnt know it existed.
 
 # Installation
 
